@@ -557,6 +557,10 @@ main {
   bottom: 80px;
 }
 
+.stack__title {
+  margin-bottom: 120px;
+}
+
 .stack-box {
   display: flex;
   justify-content: space-between;
@@ -1246,11 +1250,11 @@ main {
   }
 
   .stack-row .slick-slide {
-    margin: 0px;
+    margin: 6px;
   }
 
   .stack-row__item {
-    width: 324px !important;
+    width: 306px !important;
     height: 211px !important;
   }
 
