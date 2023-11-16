@@ -1254,7 +1254,7 @@ main {
   }
 
   .stack-row__item {
-    width: 306px !important;
+    max-width: 306px !important;
     height: 211px !important;
   }
 
